@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "spectgram",
+    "slug": "spectgram",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
